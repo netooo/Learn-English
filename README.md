@@ -6,3 +6,4 @@
 ## [副詞](./adverb/README.md)
 ## [前置詞](./preposition/README.md)
 ## [発音](./pronunciation/README.md)
+## [調べ方](./search/README.md)
