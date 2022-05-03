@@ -11,3 +11,6 @@
 | ~の導入方法 | tutorial ~ | introduction ~ |
 | ~の場所はどこ | where is ~ | location ~ |
 | ~と~の比較 | comparison between ~ and ~ | ~ vs ~ |
+| ~の代わり | ~ alternatives | |
+| ~が動かない | ~ not working | |
+| ~が期待した値を返さない | ~ gives wrong value | ~ unexpected value |
