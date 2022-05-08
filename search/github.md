@@ -11,6 +11,10 @@ e.g.) `props extension:jsx`
 **[ワード] path:[パス]**  
 e.g.) `console path:app/public`
 
+## ファイル指定
+**[ワード] in:[ファイルパス]**  
+e.g.) `RUN in:Dockerfile`
+
 ## ファイル名検索
 **filename:[ファイル名]**  
 e.g.) `filename:.vimrc`
