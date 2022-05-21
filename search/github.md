@@ -1,4 +1,6 @@
 # Githubでの調べ方
+https://docs.github.com/ja/search-github/searching-on-github
+
 ## 開発言語指定
 **[ワード] language:[言語]**  
 e.g.) `async language:javascript`
